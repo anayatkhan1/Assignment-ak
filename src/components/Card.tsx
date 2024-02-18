@@ -79,7 +79,7 @@ const Card = () => {
           <div className="profile">
             <img
               alt="profile"
-              src="/src/assets/profile.png"
+              src="/profile.png"
               width={200}
               height={200}
             />
